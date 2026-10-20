@@ -16,6 +16,6 @@ Puente para usar herramientas de servidores MCP con la API Converse de Amazon Be
 
 Java · TypeScript · IntelliJ IDEA · Eclipse · Git
 
-## Idiomas
+## Contacto
 
-Inglés: C1
+Email: lmcastel.devcaos@gmail.com · Inglés: C1
